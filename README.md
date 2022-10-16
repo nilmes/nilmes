@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nilmes96@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h4rhsSmXz4-7WNbflw8zbdmK-vs50sSo/view?usp=sharing](https://drive.google.com/file/d/1h4rhsSmXz4-7WNbflw8zbdmK-vs50sSo/view?usp=sharing)
+- 📄 To download my resume [https://drive.google.com/file/d/1h4rhsSmXz4-7WNbflw8zbdmK-vs50sSo/view?usp=sharing](https://drive.google.com/file/d/1h4rhsSmXz4-7WNbflw8zbdmK-vs50sSo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
