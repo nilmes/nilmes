@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)]
+![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)
 
 <h1 align="center">Hi 👋, I'm Nitesh Meshram</h1>
 <h3 align="center">An Aspiring Java Backend Developer. Constantly seeking to learn new things, good opportunities, and a healthy environment. I enjoy problem-solving and learning from the challenges that come along. Thus, the challenges bring the best out of me.<br><br>I am looking for an environment that will allow me to implement the best of my knowledge in the growth of an organization and simultaneously allow me to learn and boost my career.</h3>
