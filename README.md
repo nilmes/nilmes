@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://nilmes.github.io/" target="blank"><img align="center" src="https://cdn-iconsmp4.flaticon.com/512/6172/6172506.mp4" alt="portfolio link" height="30" width="40" /></a>
+  <a href="https://nilmes.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="portfolio link" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nitesh meshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh meshram" height="30" width="40" /></a>
 <a href="https://instagram.com/nil meshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nil meshram" height="30" width="40" /></a>
 </p>
