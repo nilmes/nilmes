@@ -36,8 +36,28 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="130px" height="40px"/>
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilmes&show_icons=true&locale=en&layout=compact" alt="nilmes" /></p>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                  
+<br>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilmes&show_icons=true&locale=en" alt="nilmes" /></p>
+<h2 align="center" margin-top="20px"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilmes&" alt="nilmes" /></p>
+<hr>
+<p align="left">
+<a href="https://github.com/nilmes">
+  <img align="center" justifiy-content="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilmes&" width="48%" alt="nilmes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nilmes&show_icons=true&locale=en" alt="nilmes" width="48%"/>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nilmes&show_icons=true&locale=en&layout=compact" alt="nilmes" /></p>
+  </a>
+  </p>
+<hr>
+
+ <p width="100%">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=teal&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+my+Github👨🏻‍💻;" style="width: 80%;">
+  </p>
+
+<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
+
+
