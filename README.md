@@ -46,7 +46,7 @@
 <hr>
 <p align="left">
 <a href="https://github.com/nilmes">
-  <img align="center" justifiy-content="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilmes&" width="48%" alt="nilmes" />
+  <img align="center" justifiy-content="center" src="https://streak-stats.demolab.com?user=nilmes" width="48%" alt="nilmes" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nilmes&show_icons=true&locale=en" alt="nilmes" width="48%"/>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nilmes&show_icons=true&locale=en&layout=compact" alt="nilmes" /></p>
