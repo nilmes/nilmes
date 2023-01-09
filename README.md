@@ -44,12 +44,12 @@
 <h2 align="center" margin-top="20px"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
 
 <hr>
-<p align="left">
+<p align="center" justifiy-content="space-between">
 <a href="https://github.com/nilmes">
-  <img align="center" justifiy-content="center" src="https://streak-stats.demolab.com?user=nilmes" width="48%" alt="nilmes" />
-  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/nilmes?cardType=level" alt="nilmes" width="48%"/>
+  <img align="center"  src="https://streak-stats.demolab.com?user=nilmes" width="420" height="250" alt="nilmes" />
+  <img align="center"  src="https://awesome-github-stats.azurewebsites.net/user-stats/nilmes?cardType=level" alt="nilmes" width="420" height="165"/>
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nilmes&show_icons=true&locale=en&layout=compact" alt="nilmes" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilmes&show_icons=true&locale=en&layout=compact" alt="nilmes" /></p>
   </a>
   </p>
 <hr>
